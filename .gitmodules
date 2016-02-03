@@ -40,3 +40,12 @@
 [submodule "vendor/third_party/apple_apsl"]
 	path = vendor/third_party/apple_apsl
 	url = https://github.com/quentum/apple_apsl.git
+[submodule "vendor/gin"]
+	path = vendor/gin
+	url = https://github.com/quentum/gin.git
+[submodule "vendor/native-mate"]
+	path = vendor/native-mate
+	url = https://github.com/quentum/native-mate.git
+[submodule "vendor/crypto"]
+	path = vendor/crypto
+	url = https://chromium.googlesource.com/chromium/src/crypto
