@@ -49,3 +49,15 @@
 [submodule "vendor/crypto"]
 	path = vendor/crypto
 	url = https://chromium.googlesource.com/chromium/src/crypto
+[submodule "vendor/third_party/boringssl"]
+	path = vendor/third_party/boringssl
+	url = https://github.com/quentum/boringssl.git
+[submodule "vendor/boringssl_src"]
+	path = vendor/boringssl_src
+	url = https://boringssl.googlesource.com/boringssl.git
+[submodule "vendor/third_party/yasm"]
+	path = vendor/third_party/yasm
+	url = https://github.com/quentum/yasm.git
+[submodule "vendor/patched-yasm"]
+	path = vendor/patched-yasm
+	url = https://chromium.googlesource.com/chromium/deps/yasm/patched-yasm.git
