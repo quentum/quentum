@@ -61,3 +61,6 @@
 [submodule "vendor/patched-yasm"]
 	path = vendor/patched-yasm
 	url = https://chromium.googlesource.com/chromium/deps/yasm/patched-yasm.git
+[submodule "vendor/third_party/WebKit/Source/core/streams"]
+	path = vendor/third_party/WebKit/Source/core/streams
+	url = https://github.com/quentum/webkit_stream_js.git
